@@ -1,11 +1,6 @@
 # Educa LMS — React Version
 
-This is a React + React Router conversion of the original HTML/CSS/JS "Educa" Learning
-Management System. All pages, layout, styling, images, and videos have been preserved —
-same UI, same `style.css` (kept verbatim), same Font Awesome icons, same media assets —
-but the structure is now component-based with real React state instead of
-`document.querySelector` + `classList`.
-
+Learning Management System (LMS) Frontend built with React.js. It features a modern, responsive user interface with React Router for navigation, reusable components, course pages, authentication screens, dashboards, and a clean user experience. This project focuses on frontend development and can be integrated with a Node.js, Express.js, and MongoDB backend.
 ## 1. Install dependencies
 
 ```bash
